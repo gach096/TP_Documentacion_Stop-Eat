@@ -40,7 +40,7 @@ Stop&Eat es un sistema orientado a la gestión de un servicio de comida rápida,
 
     - Diagrama de sistemas
 
-    - Diagrama de flujo de datos, con sus respectivas explosiones hasta nivel atómico.
+    - Diagrama de flujo de datos, con sus respectivas explosiones hasta nivel atómico (solo de algunos procesos).
 
     - Diagrama entidad-relación
 
