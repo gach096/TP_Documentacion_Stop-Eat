@@ -1,6 +1,6 @@
 # Stop&Eat - TP de documentación
 
-Proyecto académico desarrollado para la asignatura Metodología de Sistemas (MDS) de la Tecnicatura Universitaria en Programación (TUP Plan 2003) - UTN Facultad Regional Haedo.
+Proyecto desarrollado para la asignatura Metodología de Sistemas (MDS) de la Tecnicatura Universitaria en Programación (TUP Plan 2003) - UTN Facultad Regional Haedo.
 
 ---
 
