@@ -22,15 +22,15 @@ Stop&Eat es un sistema orientado a la gestión de un servicio de comida rápida,
 
 ## Contenido del repositorio
 
-- Consigna Stop&Eat.pdf  
+- **Consigna Stop&Eat.pdf**  
 
   Enunciado del trabajo práctico.
 
-- Objetivo, límite y alcance Stop&Eat.pdf  
+- **Objetivo, límite y alcance Stop&Eat.pdf**  
 
   Documento que define el objetivo general, los límites y el alcance del sistema a desarrollar.
 
-- TPI_MDS_v9-3.pdf  
+- **TPI_MDS_v9-3.pdf**  
 
   Documentación basada en lo aprendido en la materia:
 
@@ -58,6 +58,6 @@ Stop&Eat es un sistema orientado a la gestión de un servicio de comida rápida,
 
 ## Tecnologías / Herramientas utilizadas
 
-- Paquete Office: Microsoft Word Online.
+- **Paquete Office**: Microsoft Word Online.
 
-- Servicio online gratuito para diseño de diagramas: https://app.diagrams.net/
+- **Servicio para diseño de diagramas**: https://app.diagrams.net/
