@@ -11,9 +11,9 @@ Este repositorio contiene la documentación del trabajo práctico para la págin
 Incluye:
 - La consigna del trabajo
 - Definición de objetivos, límites y alcance del sistema
-- Documentación según lo aprendido en la materia Metodología de Sistemas (MDS)
+- Documentación según lo aprendido en la materia Metodología de sistemas (MDS)
 
-Stop&Eat es un sistema orientado a la gestión de un negocio gastronómico / servicio de comida, en formato de página web.
+Stop&Eat es un sistema orientado a la gestión de un servicio de comida rapida, en formato de página web.
 
 ---
 
