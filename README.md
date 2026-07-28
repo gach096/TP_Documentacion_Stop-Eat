@@ -6,7 +6,7 @@ Proyecto desarrollado para la asignatura Metodología de Sistemas (MDS) de la Te
 
 ## Descripción del proyecto
 
-Este repositorio contiene la documentación del trabajo práctico para la página web ficticia "Stop&Eat".
+Este repositorio contiene la documentación del trabajo práctico para la página web ficticia Stop&Eat.
 
 Incluye:
 
