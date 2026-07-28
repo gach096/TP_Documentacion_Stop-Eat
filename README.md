@@ -27,16 +27,16 @@ Stop&Eat es un sistema orientado a la gestión de un negocio gastronómico / ser
 
 - **TPI_MDS_v9-3.pdf**  
   Documentación basada en lo aprendido en la materia:
-  **Lista de eventos**
-  **Diagrama de contexto**
-  **Diagrama de sistemas**
-  **Diagrama de flujo de datos**, con sus respectivas explosiones hasta nivel atómico.
-  **Diagrama entidad-relación**
-  **Tablas del modelo relacional**
-  **Diccionario de sistema**
-  **Entidades externas**
-  **Flujo de datos**
-  **Casos de uso** (solo de algunos procesos).
+    -**Lista de eventos**
+    -**Diagrama de contexto**
+    -**Diagrama de sistemas**
+    -**Diagrama de flujo de datos**, con sus respectivas explosiones hasta nivel atómico.
+    -**Diagrama entidad-relación**
+    -**Tablas del modelo relacional**
+    -**Diccionario de sistema**
+    -**Entidades externas**
+    -**Flujo de datos**
+    -**Casos de uso** (solo de algunos procesos).
 ---
 
 ## Tecnologías / Herramientas utilizadas
