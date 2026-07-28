@@ -60,4 +60,4 @@ Stop&Eat es un sistema orientado a la gestión de un servicio de comida rápida,
 
 - **Microsoft Word Online**: Usado para editar texto e imagen.
 
-- **[diagrams.net]https://app.diagrams.net/**: Servicio para diseño de diagramas.
+- **[diagrams.net](https://app.diagrams.net/)**: Servicio para diseño de diagramas.
